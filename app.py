@@ -39,7 +39,7 @@ st.markdown("""
 
 # ====================== YOUR CUSTOM SIDEBAR ======================
 with st.sidebar:
-    st.image("C:\\Users\\ASUS\\OneDrive\\Desktop\\Narek website\\1757119608775.jpeg", width=180)
+    st.image("1757119608775.jpeg", width=180)
     
     st.markdown("<h2 style='text-align: center; color: #1E3A8A;'>Narek Karapetyan</h2>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center; color: #475569;'>Macroeconomist | Finance Specialist | PhD in Economics</p>", unsafe_allow_html=True)
